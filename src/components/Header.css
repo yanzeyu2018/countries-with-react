@@ -1,0 +1,52 @@
+
+.header-div{
+    background-image: url('../globe.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 3vh;
+    font-size: 4em;
+
+
+}
+
+#c {
+    color: rgb(195,238,2);
+    font-weight: 600;
+}
+
+#o {
+    color: rgb(227,28,177);
+    font-weight: 600;
+}
+#u {
+    color: rgb(100,129,180);
+    font-weight: 600;
+}
+#n {
+    color: rgb(44,251,52);
+    font-weight: 600;
+}
+#t {
+    color: rgb(179,99,161);
+    font-weight: 600;
+}
+#r {
+    color: rgb(143,165,25);
+    font-weight: 600;
+}
+#i {
+    color: rgb(220,182,195);
+    font-weight: 600;
+}
+#e {
+    color: rgb(200,152,21);
+    font-weight: 600;
+}
+#s {
+    color: rgb(18,180,253);
+    font-weight: 600;
+}
